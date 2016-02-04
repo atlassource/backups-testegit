@@ -9,3 +9,9 @@ li
 	font-size: sans-serif;
 	color: #0f0;
 }
+
+body
+{
+	width: 50%;
+	margin: 0 auto;
+}
